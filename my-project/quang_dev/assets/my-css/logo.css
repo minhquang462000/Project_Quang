@@ -1,0 +1,150 @@
+.logoQ {
+    width: 60px;
+    height: 60px;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #3d754b;
+    border-color: #3d754b;
+    transform: translateY(-1px);
+}
+
+.productQ {
+    scale: 80%;
+}
+
+.class-h4 {
+    border-bottom: 1px solid black;
+    margin: 20px 0;
+    padding-bottom: 10px;
+    color: #59ab6e;
+}
+
+.flex {
+    margin: auto;
+    display: flex;
+    gap: 10px;
+    margin: 10px 0 20px 0;
+    justify-content: center;
+    border-bottom: 1px solid black;
+    color: #59ab6e;
+}
+
+.status {
+    display: flex;
+    align-items: center;
+
+}
+
+.con {
+    font-size: 15px;
+    color: white;
+    background-color: red;
+    padding: 2px 5px;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.blue {
+    background-color: rgb(56, 56, 255);
+}
+
+.btn-h4 {
+    margin-bottom: 20px;
+
+}
+
+.btn {
+    border: 1px solid #59ab6e;
+    padding: 1px 10px;
+    color: white;
+    background-color: #59ab6e;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.btn:hover {
+    background-color: #3d754b;
+    border-color: #3d754b;
+    color: white;
+}
+
+span {
+    margin-left: 10px;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+
+}
+
+.p-5 {
+    margin-bottom: 50px;
+
+}
+
+.img-fluid {
+    max-height: 500px;
+}
+
+.hideQ {
+    display: none;
+}
+
+.shop-name {
+    font-size: 25px;
+}
+
+.imageQ {
+    max-height: 300px;
+}
+
+.redbg {
+    background-color: red !important;
+    color: white !important;
+    scale: 80% !important;
+    margin-left: 0px !important;
+}
+
+.decrease {
+    font-size: 30px !important;
+}
+
+.btn-outline-black {
+    font-weight: bold !important;
+}
+
+.td {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.divQ {
+    border-radius: 20px !important;
+    margin: auto;
+    width: 150px;
+}
+
+.inputQ {
+    border-radius: 10px !important;
+}
+
+#tbody {
+    margin: auto;
+}
+
+.img-hight {
+    max-height: 200px;
+    max-width: 200px;
+}
+
+.activeQ {
+   border-bottom: 3px solid #59ab6e;
+}
+.text-success {
+    color: #59ab6e !important;
+}

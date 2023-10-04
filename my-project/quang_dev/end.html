@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>End.</title>
+  </head>
+  <body>
+    <div class="div-class" id="div"></div>
+    <script>
+      const div = document.getElementById("div");
+      setTimeout(() => {
+        div.innerHTML = ` <img style="display: flex; justify-content: center; align-items: center; margin: auto;scale: 200%;margin-top: 200px;" src="./assets/image/17bf7b743757a60e3e5cd0deae540ca9.gif" alt="" srcset="">`;
+      }, 1000);
+      setInterval(() => {
+        div.innerHTML = ` <img style="display: flex; justify-content: center; align-items: center; margin: auto;scale: 200%;margin-top: 200px;" src="./assets/image/17bf7b743757a60e3e5cd0deae540ca9.gif" alt="" srcset="">`;
+        console.log("sdsd");
+      }, 5000);
+    </script>
+  </body>
+</html>
